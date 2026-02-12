@@ -11,3 +11,19 @@ git  add filename -> stage a single file
 git commit -m "any message you want to commit"
 git status
 .gitignore 
+git push -> if you want to upload it on github 
+
+git remote add origin https://github.com/SandhyaBharti/git-practice.git 
+git remote -v -> to check the url of github 
+git branch -M main -> rename current active branch to main 
+git push -u origin main -> for enabling PORT(upstream) when you are using for very first time 
+
+// to list all branches -> git branch -> to check how many branches availbale in current
+// to create another branch -> git branch "branchname"
+// to switch from 1 branch to other -> git switch "branchname"
+// to update the branchname -> u have to go to that branch and write the name of the branch -> git branch -M "new branchname"
+// to delete the branch -> have to change the branch which want to delete to another branch :- git branch -D "branchname"
+// git switch - => switch to previous branch 
+// git checkout -b "branchname" :- if that branch is nit there then it will create taht branch and switch to that branch 
+// git checkout - :- also used to go back to previous branch 
+// to add some branch to github -> have to go to that branch : git push -u origin "branchname"
