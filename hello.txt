@@ -1,1 +1,7 @@
 Hello Git!
+to unstage the file :(use "git rm --cached <file>..." to unstage)
+commit: save changes locally in system (specially in .git folder)
+git config --global user.name "Sandhya Bharti" -> to write your  name
+git config --global user.name -> to check your name 
+git config --global user.email "yourgithub@gmail.com" -> to write your name 
+git config --global user.email -> to check your email
