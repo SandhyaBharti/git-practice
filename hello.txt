@@ -27,3 +27,5 @@ git push -u origin main -> for enabling PORT(upstream) when you are using for ve
 // git checkout -b "branchname" :- if that branch is nit there then it will create taht branch and switch to that branch 
 // git checkout - :- also used to go back to previous branch 
 // to add some branch to github -> have to go to that branch : git push -u origin "branchname"
+
+// to fetch the change 
